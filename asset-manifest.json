@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MCQInstitution/static/css/main.c2573102.css",
+    "main.js": "/MCQInstitution/static/js/main.cb3fb569.js",
+    "static/js/787.0deebb2d.chunk.js": "/MCQInstitution/static/js/787.0deebb2d.chunk.js",
+    "static/media/google-icon.svg": "/MCQInstitution/static/media/google-icon.a45b46e964c34094185e40d691917f1b.svg",
+    "index.html": "/MCQInstitution/index.html",
+    "main.c2573102.css.map": "/MCQInstitution/static/css/main.c2573102.css.map",
+    "main.cb3fb569.js.map": "/MCQInstitution/static/js/main.cb3fb569.js.map",
+    "787.0deebb2d.chunk.js.map": "/MCQInstitution/static/js/787.0deebb2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2573102.css",
+    "static/js/main.cb3fb569.js"
+  ]
+}
